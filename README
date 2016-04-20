@@ -1,0 +1,5 @@
+Machine learning neural network exercise
+
+Solution to exercises of an online course. The neural network is capable of recognizing handwritten digits with approx. 93% accuracy.
+
+Implemented with GNU Octave
